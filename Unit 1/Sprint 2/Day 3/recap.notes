@@ -1,0 +1,55 @@
+Variables: its like a container
+Data Types: Type of data a variables is holding.
+Classification of Data Types:
+1. Number
+     int: integer(-45, 56)
+     float: decimal number/floating numbers(45.56, 56.67)
+     boolean: Either True or False
+     complex: not in your syllabus
+2.  Sequence
+       String: it can be either in '' or in "" or in """ """
+       List: Discuss later
+       Tuple: Discuss later
+3.  Mapping:
+       Dictionary: Discuss later
+4.  Set:
+       set: Discuss later
+5.  None:
+      None: Discuss later
+
+name = "Rakesh"
+age = 34
+city = "Delhi"
+
+    Stack                 Heap(values)
+|45342323232| ----------- | "Rakesh"|(object)  
+    name
+
+|54534232323| ----------- | 34 |  (object)
+    age
+
+|545342s4532323| ----------- | "Delhi" |  (object)
+    city
+
+num1 = 45
+num2 = 45
+    
+    Stack                     Heap
+|453434342323| -------------| 45 |(object)
+    num1
+    num2
+
+How variables are allocated some space in the memory?
+-During execution of your program, some process(program) will occupy some space in the RAM that occupied space is known as Address Space.
+
+This Address has following parts:
+
+1. Data Segment: it contains variables and values which has following two parts.
+   A. Stack:
+        -the memory occupied in stack, you can provide any user friendly name, so that you can access tha value at the address/reference.
+        -the memory allocation in stack, you can not resized.
+        - the memory allocated in stack, it takes place in the memory statically.
+   B. Heap:
+         -the memory occupied in heap,you can't provide any name, it only stores object
+        -the memory allocation in heap, you can resized.
+        - the memory allocated in heap, it takes place in the memory Dynamically.
