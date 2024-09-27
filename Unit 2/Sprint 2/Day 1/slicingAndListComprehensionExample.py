@@ -1,4 +1,4 @@
-#Slicing In List: - It is used to slice/extract some part of your list in continuous manner and return that sliced/extracted list.  
+ #Slicing In List: - It is used to slice/extract some part of your list in continuous manner and return that sliced/extracted list.  
 
 """
 Syntax:
