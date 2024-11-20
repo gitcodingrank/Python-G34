@@ -130,11 +130,11 @@ file = open('data.txt', 'r+')
 # file.write(json.dumps(students))
 
 #add another sutdents
-studentList = json.loads(file.read())
-studentList.append("Chinki")
-file.seek(0)
-file.write(json.dumps(studentList))
-file.truncate()
+# studentList = json.loads(file.read())
+# studentList.append("Chinki")
+# file.seek(0)
+# file.write(json.dumps(studentList))
+# file.truncate()
 
 
     

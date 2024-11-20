@@ -1,0 +1,22 @@
+{
+    "students": [
+        {
+            "id": "819427494836468",
+            "name": "Chintu",
+            "city": "Noida",
+            "marks": "432"
+        },
+        {
+            "id": "971455340664296",
+            "name": "Bimal",
+            "city": "Ghaziabad",
+            "marks": "563"
+        },
+        {
+            "id": "198146814681126",
+            "name": "Chirag",
+            "city": "NOida",
+            "marks": "453"
+        }
+    ]
+}
