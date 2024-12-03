@@ -1,0 +1,46 @@
+{
+    "students": [
+        {
+            "id": "145821986841754",
+            "name": "Rakesh",
+            "email": "rakesh@gmail.com",
+            "city": "Noida"
+        },
+        {
+            "id": "323263539833556",
+            "name": "Rakesh",
+            "email": "rakesh@gmail.com",
+            "city": "Noida"
+        },
+        {
+            "id": "297036597882338",
+            "name": "Rakesh",
+            "email": "rakesh@gmail.com",
+            "city": "Noida"
+        },
+        {
+            "id": "231820440199638",
+            "name": "Rakesh",
+            "email": "rakesh@gmail.com",
+            "city": "Noida"
+        },
+        {
+            "id": "125955267677134",
+            "name": "Rakesh",
+            "email": "rakesh@gmail.com",
+            "city": "Noida"
+        },
+        {
+            "id": "324056401167073",
+            "name": "rakesh",
+            "email": "rakesh@gmail.com",
+            "city": "Noida"
+        },
+        {
+            "id": "565430546816326",
+            "name": "Rakesh",
+            "email": "rakesh1@gmail.com",
+            "city": "Noida"
+        }
+    ]
+}
